@@ -32,4 +32,4 @@ username*mail*password*ref
 ```
 Dave999*Dave999@rambler.ru*qwerty*https://pentagon.games/sign-up/liza34
 ```
-Потом запускаете программу# Pentagon-Games
+Потом запускаете программу
